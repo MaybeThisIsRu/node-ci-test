@@ -8,6 +8,9 @@
   },
   "description": "Testing DroneCI with a trivial Node API endpoint.",
   "main": "server.js",
+  "scripts": {
+    "serve": "node server.js"
+  },
   "repository": "git@github.com:hirusi/node-ci-test.git",
   "author": "hirusi <hello@rusingh.com>",
   "license": "MIT",
