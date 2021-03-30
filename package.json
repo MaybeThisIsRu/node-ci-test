@@ -1,0 +1,15 @@
+{
+  "name": "node-ci-test",
+  "version": "0.1.0",
+  "engines": {
+    "node": "^14",
+    "yarn": "^1",
+    "npm": "please-use-yarn"
+  },
+  "description": "Testing DroneCI with a trivial Node API endpoint.",
+  "main": "server.js",
+  "repository": "git@github.com:hirusi/node-ci-test.git",
+  "author": "hirusi <hello@rusingh.com>",
+  "license": "MIT",
+  "private": true
+}
