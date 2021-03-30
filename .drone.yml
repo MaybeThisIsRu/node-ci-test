@@ -7,5 +7,4 @@ steps:
   image: alpine
   commands:
   - echo hello
-  - echo new
   - echo world
