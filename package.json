@@ -11,5 +11,8 @@
   "repository": "git@github.com:hirusi/node-ci-test.git",
   "author": "hirusi <hello@rusingh.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "fastify": "^3.14.1"
+  }
 }
